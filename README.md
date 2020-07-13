@@ -5,7 +5,7 @@
 ### Authentication
 
 -OAuth
--Passportjs
+-Passportjs w/ passport-google-oauth20 Strategy
 
 ## Open live page from heroku
 
