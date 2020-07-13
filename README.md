@@ -1,6 +1,7 @@
 ## Tech Stack
 
 -  express
+-  cookie-session (for cookie management)
 
 ### Database
 
