@@ -1,11 +1,15 @@
 ## Tech Stack
 
--express
+-  express
+
+### Development dependencies
+
+-  nodemon
 
 ### Authentication
 
--OAuth
--Passportjs w/ passport-google-oauth20 Strategy
+-  OAuth
+-  Passportjs w/ passport-google-oauth20 Strategy
 
 ## Open live page from heroku
 
@@ -14,4 +18,4 @@ In the console:
 
 ### Deployment on
 
--heroku
+-  heroku
