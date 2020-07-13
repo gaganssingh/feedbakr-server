@@ -2,6 +2,10 @@
 
 -  express
 
+### Database
+
+-  MongoDB w/ mongoose
+
 ### Development dependencies
 
 -  nodemon
