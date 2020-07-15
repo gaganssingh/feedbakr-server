@@ -24,6 +24,8 @@ passport.use(
          // after the user grants permission
          // they'll be redirected to the following url
          callbackURL: "/auth/google/callback",
+         // trust the heroku proxy upon redirect
+         proxy: true,
       },
       // Callback function automatically called after
       //  a user is redirected after logging in using google
